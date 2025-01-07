@@ -36,17 +36,22 @@ Superstore Dataset: Dataset containing information about sales, profits, custome
 5.1 Insights to help the superstore focus on profitable areas and reduce wastage.
    
 🚀 How to Use
-1. Clone the repository: git clone https://github.com/yourusername/superstore-dashboard.git
+1. Clone the repository: git clone https://github.com/Ritika159/Superstore.git
 2. Open the .pbix file in Power BI Desktop to explore the dashboard or make customizations.
 3. Use the dataset provided in the data folder (if applicable) to refresh or update the dashboard.
    
 📂 Repository Structure
 
 superstore-dashboard/
+
 ├── Sample - Superstore/       # Excel File 
+
 ├── Sample - Superstore_2/     # New Data
+
 ├── Dashboard/                 # PowerBI Dashbpard
+
 ├── images/                    # Screenshots of the Dashboard
+
 ├── README.md                  # Project description
 
 📸 Sample Visualizations
