@@ -65,15 +65,15 @@ Customer Segments: High-value customers identified for retention efforts.
 The dataset used for this project is publicly available and contains simulated data on sales, profits, customers, and regions.
 
 📈 Future Enhancements
-Integrate predictive analytics using Python or R for demand forecasting.
-Build automated email reports for key stakeholders.
-Add drill-through functionality for deeper analysis of individual data points.
+1. Integrate predictive analytics using Python or R for demand forecasting.
+2. Build automated email reports for key stakeholders.
+3. Add drill-through functionality for deeper analysis of individual data points.
 
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute, please:
-Fork the repository.
-Create a feature branch.
-Submit a pull request.
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request.
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
