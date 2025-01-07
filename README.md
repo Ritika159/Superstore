@@ -65,11 +65,13 @@ Below are some screenshots of the dashboard:
 3. Product and Category Insights
 
 ✨ Key Insights
+
 Top Performing Categories: Office supplies and furniture contribute significantly to profits.
 Underperforming Regions: Identified specific regions with high sales but low profitability.
 Customer Segments: High-value customers identified for retention efforts.
 
 📚 Dataset Source
+
 The dataset used for this project is publicly available and contains simulated data on sales, profits, customers, and regions.
 
 📈 Future Enhancements
