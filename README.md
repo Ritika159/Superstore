@@ -1,9 +1,11 @@
 **Superstore Dashboard**
 
 📋 Project Overview
+
 In today's competitive market, businesses must make data-driven decisions to stay ahead. This project is dedicated to helping a Superstore Giant identify key insights about their operations, including products, regions, categories, and customer segments to target or avoid. By leveraging the power of Power BI, I have developed an interactive and visually engaging dashboard to aid strategic decision-making.
 
 🎯 Objectives
+
 The primary goals of this project are:
 1. Identify High-Performing Products and Categories: Pinpoint which products and categories drive profitability and growth.
 2. Analyze Regional Performance: Understand how sales and profit vary across regions.
