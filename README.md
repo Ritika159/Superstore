@@ -41,6 +41,7 @@ Superstore Dataset: Dataset containing information about sales, profits, custome
 3. Use the dataset provided in the data folder (if applicable) to refresh or update the dashboard.
    
 📂 Repository Structure
+
 superstore-dashboard/
 ├── Sample - Superstore/       # Excel File 
 ├── Sample - Superstore_2/     # New Data
