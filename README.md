@@ -39,6 +39,7 @@ Superstore Dataset: Dataset containing information about sales, profits, custome
 4.2 Segment-wise profitability and retention insights.
 
 5. Actionable Recommendations:
+   
 5.1 Insights to help the superstore focus on profitable areas and reduce wastage.
    
 🚀 How to Use
