@@ -19,18 +19,22 @@ Superstore Dataset: Dataset containing information about sales, profits, custome
 
 📊 Features of the Dashboard
 1. Overview Section:
+   
 1.1 Key performance indicators (KPIs) such as total sales, total profit, and order count.
 1.2 Year-over-year trends for sales and profits.
 
 2. Regional Analysis:
+   
 2.1 Map visualizations to show sales and profit distribution by region.
 2.2 Highlight underperforming regions for targeted improvements.
    
 3. Category and Product Insights:
+   
 3.1 Visual breakdown of performance by product categories and subcategories.
 3.2 Identification of best-selling and least profitable products.
    
 4. Customer Segmentation:
+   
 4.1 Analysis of customer demographics and purchasing behavior.
 4.2 Segment-wise profitability and retention insights.
 
