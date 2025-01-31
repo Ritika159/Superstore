@@ -66,7 +66,7 @@ superstore-dashboard/
 
 ├── Dashboard/                 # PowerBI Dashbpard
 
-├── images/                    # Screenshots of the Dashboard
+├── Superstore_BI/                    # Screenshots of the Dashboard
 
 ├── README.md                  # Project description
 
